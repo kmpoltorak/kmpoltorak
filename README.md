@@ -3,4 +3,4 @@ fleet-wide command execution, DNS checks.
 
 They are built with AI coding assistants. I own the problem, the spec, the
 review and the verification: every change goes through tests and CI, and each
-README lists what the tool does not handle yet.
+README lists what the tool does handle.
